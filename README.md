@@ -1,11 +1,12 @@
-# marquez--rivero
+# marquez-rivero
 
-##CURSO DE PROGRAMACION FULL STAK
+## CURSO DE PROGRAMACION FULL STAK ##
 
-.Modulo2-repositorio Y workfow.
+#### Modulo2-repositorio Y workfow ###
 
->*siliconmisiones-https//siliconmisiones.gob.ar/*
+siliconmisiones-https//siliconmisiones.gob.ar/ 
 
-   .MARQUEZ RIVERO DAMIANA YANINA.
+
+   * MARQUEZ RIVERO DAMIANA YANINA *
 
 **ESTE REPOSITORIO FUE CREADO CON FINES ACADEMICOS .CONTIENE EJERCISIOSRESUELTOS DEL MODULO1**
